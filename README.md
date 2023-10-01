@@ -12,3 +12,10 @@ and then you need to sync
 ```repo sync```
 
 after that clone this repository
+and move this repo to device/Infinix/Infinix-X670
+
+
+after that just start build it with this command
+```. build/envsetup.sh```
+```lunch omni_X670-eng```
+```mka bootimage```
